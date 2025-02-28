@@ -4,7 +4,7 @@
 Web Donasi ini dibuat menggunakan golang.
 ## 🛠️ **Instalasi & Setup**
 ### 1️⃣ **Clone Repository**
-git clone https://github.com/prudencadaffa/web-donasi-be.git <br>
+git clone https://github.com/prudencadaffa/server_startup-be.git <br>
 cd web-donasi-be
 ### 2️⃣ Pastikan Go Sudah Terinstal ###
 go version
